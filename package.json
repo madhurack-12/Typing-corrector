@@ -1,0 +1,12 @@
+{
+  "name": "typefix-pro",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Typing correction website with C linked list, queue and stack demonstration",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
